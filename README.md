@@ -2,6 +2,8 @@
 
 *Written by [Blain Barton](http://aka.ms/blainbarton), Senior Technical Evangelist*
 
+This Microsoft Cloud Story can be found at: https://cloud.microsoft.com/en-us/customer-stories/pga-tour/
+
 Microsoft technology partner [Sensoria, Inc](http://www.sensoriafitness.com), professional golfer [Bryson DeChambeau](http://www.usopen.com/en_US/players/bios/47959.html), the Microsoft Developer and Evangelism team and other golf partners recently collaborated to build a new high-tech IoT solution involving a smart, connected golf grip. The “Smart Grip” detects Bryson’s hand-on-grip position and levels of pressure, monitors his golf strokes on different clubs and relays real-time data to Microsoft Azure intelligent systems. The data is then rendered for Bryson on a Microsoft Surface with an elegant Universal Windows Platform Application using XAML and Microsoft Visual Studio. ![](https://github.com/blainbar/techcasestudies-private/blob/master/images/senvsxaml.png)
 
 ## The Challenge ##
